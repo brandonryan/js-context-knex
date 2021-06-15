@@ -1,5 +1,23 @@
 {
-  "dependencies": {
-    "knex": "^0.95.6"
+  "name": "js-context-knex",
+  "type": "module",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonryan/js-context-knex.git"
+  },
+  "author": "Brandon Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonryan/js-context-knex/issues"
+  },
+  "homepage": "https://github.com/brandonryan/js-context-knex#readme",
+  "description": "JS Context module for knex",
+  "peerDependencies": {
+    "knex": "0.x"
   }
 }
