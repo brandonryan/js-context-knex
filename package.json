@@ -19,8 +19,6 @@
   "description": "JS Context module for knex",
   "peerDependencies": {
     "knex": "0.x"
-  },
-  "dependencies": {
-    "knex": "^0.95.6"
   }
+
 }
